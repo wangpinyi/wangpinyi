@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->:sleeping: have trouble with sleeping
 :worried:worrying about my academic outcomes and career development
 :sunny:prefer sunny days
-:cn:I come from China
-:aquarius:
+:cn: I come from China
+:aquarius: I am an aquarius
